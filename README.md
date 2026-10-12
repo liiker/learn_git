@@ -1,3 +1,3 @@
-Just a document.
+# Just a document.
 
-# Git is a good tool!
+> Git is a good tool!
